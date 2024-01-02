@@ -1,0 +1,19 @@
+{
+    "name": "yasir/testyasir",
+    "description": "this is test",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Yasir\\Testyasir\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ALQAISI yasir",
+            "email": "yasir.alqaisi.ext@up.coop"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
